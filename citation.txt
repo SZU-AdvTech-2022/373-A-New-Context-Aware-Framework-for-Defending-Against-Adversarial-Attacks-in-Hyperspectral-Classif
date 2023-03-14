@@ -1,4 +1,4 @@
-@article{REPO-374,
+@article{REPO-373,
     author = "Xu, Yonghao and Du, Bo and Zhang, Liangpei",
     journal = "IEEE Transactions on Image Processing",
     pages = "8671-8685",
